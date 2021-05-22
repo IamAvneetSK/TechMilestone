@@ -1,6 +1,13 @@
 {
     "name": "Tech Milestone",
+"icons": [
+    {
+      "src": "assets/images/tm-black-transparent.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
     "short_name": "Tech Milestone",
     "description": "Tech Milestone Web App for all services and products provided by TMOG",
-    "start_url": "techmilestone.tk"
+    "start_url": "/index.html"
 }
