@@ -2,9 +2,12 @@
     "name": "Tech Milestone",
 "icons": [
     {
-      "src": "assets/images/tm-black-transparent.png",
+      "src": "/assets/images/tm-black-transparent.png",
       "sizes": "512x512",
       "type": "image/png"
+      "src": "/assets/images/tm.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
     }
   ],
     "short_name": "Tech Milestone",
