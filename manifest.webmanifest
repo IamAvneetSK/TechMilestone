@@ -1,6 +1,6 @@
 {
     "name": "Tech Milestone",
-    "icons": [
+"icons": [
     {
       "src": "assets/images/tm-black-transparent.png",
       "sizes": "512x512",
@@ -11,11 +11,11 @@
       "sizes": "512x512",
       "type": "image/jpg"
     }
-             ],
+  ],
     "short_name": "Tech Milestone",
     "description": "Tech Milestone Web App for all services and products provided by TMOG",
     "start_url": "/"
-    "background_color": "#00000",
+    "background_color": "#3367D6",
     "display": "standalone",
     "scope": "/",
     "theme_color": "#5E17EB"
